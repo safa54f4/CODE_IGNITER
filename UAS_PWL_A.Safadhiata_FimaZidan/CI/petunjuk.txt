@@ -1,0 +1,7 @@
+contoh user mahasiswa
+email : mamank.resink@bla.com
+password : resink
+
+ci adalah client dari rest api nya laravel jadi tidak ada db
+
+jika ada masalah atau minta bantuan bisa WA 081515189349
